@@ -1,0 +1,24 @@
+cat:
+  owner_name: Catherine Oxley
+  picture: images/yorkshire.jpg
+  owner_picture: images/cat.jpg
+  name: Cat's home
+  summary: Happy house in Yorkshire
+  city: Settle, England
+  wifi: true
+fahad:
+  owner_name: Fahad Alkubaisi
+  picture: images/baghdad.jpg
+  owner_picture: images/fahad.jpg
+  name: Fahad's home
+  summary: Amazing home in Baghdad
+  city: Baghdad, Iraq
+  wifi: true
+basil:
+  owner_name: Basil Oxley
+  picture: images/moon.jpg
+  owner_picture: images/basil.jpg
+  name: Basil's home
+  summary: The moon
+  city: The moon
+  wifi: false
