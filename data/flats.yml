@@ -1,5 +1,5 @@
 cat:
-  owner_name: Catherine Oxley
+  owner_name: Catherine
   picture: images/yorkshire.jpg
   owner_picture: images/cat.jpg
   name: Cat's home
@@ -7,7 +7,7 @@ cat:
   city: Settle, England
   wifi: true
 fahad:
-  owner_name: Fahad Alkubaisi
+  owner_name: Fahad
   picture: images/baghdad.jpg
   owner_picture: images/fahad.jpg
   name: Fahad's home
@@ -15,7 +15,7 @@ fahad:
   city: Baghdad, Iraq
   wifi: true
 basil:
-  owner_name: Basil Oxley
+  owner_name: Basil
   picture: images/moon.jpg
   owner_picture: images/basil.jpg
   name: Basil's home
